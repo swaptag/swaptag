@@ -1,0 +1,6 @@
+- 👋 hi, i’m cam (she/her)
+- email: cam@swaptag.app
+- 
+- i’m learning to use xcode/swift to make an app idea i have.
+- i get that sounds cringe but I'm dedicated and i think this will be pretty useful.
+- i will add more information when i have a working build. 
